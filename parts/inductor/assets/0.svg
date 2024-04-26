@@ -1,0 +1,8 @@
+<svg version="1.1" width="80" height="20" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,9 L21,9 L21,11 L0,11 Z M49,9 L51,9 L51,11 L49,11 Z"></path>
+  <path d="M59,9 L80,9 L80,11 L59,11 Z M29,9 L31,9 L31,11 L29,11 Z M39,9 L41,9 L41,11 L39,11 Z"></path>
+  <path fill-rule="evenodd" d="M 19 10 A 6 6 180 0 1 31 10 Z M 21 10 A 4 4 180 0 1 29 10 Z"></path>
+  <path fill-rule="evenodd" d="M 29 10 A 6 6 180 0 1 41 10 Z M 31 10 A 4 4 180 0 1 39 10 Z"></path>
+  <path fill-rule="evenodd" d="M 39 10 A 6 6 180 0 1 51 10 Z M 41 10 A 4 4 180 0 1 49 10 Z"></path>
+  <path fill-rule="evenodd" d="M 49 10 A 6 6 180 0 1 61 10 Z M 51 10 A 4 4 180 0 1 59 10 Z"></path>
+</svg>
